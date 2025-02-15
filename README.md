@@ -56,7 +56,7 @@ Feel free to explore the code and modify it to add new features or improve the g
 
 ---
 
-**Author**: FreeCodeCamp / Mihailo Cvijetic
+**Author**: FreeCodeCamp / Mihailo Cvjetinovic
 
 **Platform**: FreeCodeCamp
 
