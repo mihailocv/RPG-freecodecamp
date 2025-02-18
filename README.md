@@ -2,6 +2,12 @@
 
 Welcome to **Dragon Repeller**, a text-based RPG game where you must defeat the dragon that is preventing people from leaving the town. This project was created as part of the FreeCodeCamp curriculum for the JavaScript Algorithms and Data Structures certification.
 
+### Project Description
+
+JavaScript is a powerful scripting language that you can use to make web pages interactive. It's one of the core technologies of the web, along with HTML and CSS. All modern browsers support JavaScript.
+
+In this practice project, you'll learn fundamental programming concepts in JavaScript by coding your own Role Playing Game. You'll learn how to work with arrays, strings, objects, functions, loops, if/else statements, and more.
+
 ### How to Play
 
 In Dragon Repeller, you navigate through different locations, fight monsters, manage your resources, and ultimately aim to defeat the dragon. The game is controlled using three buttons that allow you to make decisions and take actions.
@@ -36,28 +42,22 @@ You begin the game in the town square with the following initial stats:
 - **Run**: Escape the fight and return to the town square.
 - **Easter Egg Game**: Guess a number and see if it matches one of the randomly chosen numbers to win gold or lose health.
 
-### Project Details
+### Project Structure
 
-This game was developed as part of the FreeCodeCamp curriculum for the JavaScript Algorithms and Data Structures certification. It demonstrates the use of JavaScript for game logic, HTML for structure, and CSS for styling.
+- **index.html**: The main HTML file that contains the structure of the game.
+- **styles.css**: The CSS file that styles the game.
+- **script.js**: The JavaScript file that adds functionality to the game.
 
-### How to Run
+### Learning Outcomes
 
-1. Clone the repository to your local machine.
-2. Open `index.html` in your web browser.
-3. Enjoy playing Dragon Repeller!
+By completing this project, you will:
 
-### License
+- Gain a deeper understanding of fundamental programming concepts in JavaScript.
+- Learn how to work with arrays, strings, objects, functions, loops, and if/else statements.
+- Understand how to manage game state and user interactions.
+- Learn how to dynamically update the user interface based on the current state.
 
-This project is licensed under the MIT License.
 
----
+## Acknowledgements
 
-Feel free to explore the code and modify it to add new features or improve the game. Happy coding and dragon repelling!
-
----
-
-**Author**: FreeCodeCamp / Mihailo Cvjetinovic
-
-**Platform**: FreeCodeCamp
-
-**Certification**: JavaScript Algorithms and Data Structures
+This project is part of the freeCodeCamp curriculum. For more information, visit [freeCodeCamp](https://www.freecodecamp.org/).
